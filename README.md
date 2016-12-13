@@ -9,30 +9,30 @@ SUGAR BUTTONS
 1. index.html: Add buttons and talk about Sugar
 
 PHYSICS
-2. Video: Physics Machine 1
+1. Video: Physics Machine 1
 
-3. Video: Physics Machine 2
+2. Video: Physics Machine 2
 
 TURTLEBLOCKS
-4. Video: TurtleBlocks Square
+1. Video: TurtleBlocks Square
 
-5. Video: TurtleBlocks Rectangle
+2. Video: TurtleBlocks Rectangle
 
-6. Video: TurtleBlocks: Triangle
+4. Video: TurtleBlocks: Triangle
 
-7. Video: TurtleBlocks: Pentagon
+5. Video: TurtleBlocks: Pentagon
 
-8. Python: TurtleBlocks_Square
+6. Python: TurtleBlocks_Square
 
-9. Python: TurtleBlocks_Rectangle
+7. Python: TurtleBlocks_Rectangle
 
-10. Python: TurtleBlocks_Triangle
+8. Python: TurtleBlocks_Triangle
 
-11. Python: TurtleBlocks_Pentagon
+9. Python: TurtleBlocks_Pentagon
 
 MUSICBLOCKS
-12. Lilypond: Jingle Bells
+1. Lilypond: Jingle Bells
 
-13. PDF: Jingle Bells
+2. PDF: Jingle Bells
 
-14. MusicBlocks tb: Jingle Bells
+3. MusicBlocks tb: Jingle Bells
