@@ -33,6 +33,8 @@ TURTLEBLOCKS
 
 9. Python: TurtleBlocks_Pentagon
 
+10. Advanced Manual For Turtle Blocks
+
 MUSICBLOCKS
 ----
 1. Lilypond: Jingle Bells
